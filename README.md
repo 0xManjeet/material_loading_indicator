@@ -1,5 +1,7 @@
 # Material Loading Indicator
 
+https://github.com/user-attachments/assets/fad241ee-890e-4ef0-8b46-9bef5b723b25
+
 A [Flutter][flutter] implementation of the [Material 3 Loading Indicator][material-loading-indicator] component.
 
 It is based on the original Android implementation available in [androidx.compose.material3][androidx.compose.material3] package.
