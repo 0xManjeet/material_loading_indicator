@@ -1,11 +1,11 @@
 {
-    "name": "material_loading_indicator",
-    "short_name": "material_loading_indicator",
+    "name": "Flutter Material Loading Indicator",
+    "short_name": "Flutter Material Loading Indicator",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FDF7FE",
+    "theme_color": "#FDF7FE",
+    "description": "Flutter implementation of Material 3 loading indicator",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
