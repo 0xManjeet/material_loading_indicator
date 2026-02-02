@@ -11,8 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   material_shapes:
-    git: git@github.com:0xManjeet/material_shapes.git
-
+    git:
+      url: https://github.com/0xManjeet/material_shapes.git
 dev_dependencies:
   flutter_test:
     sdk: flutter
